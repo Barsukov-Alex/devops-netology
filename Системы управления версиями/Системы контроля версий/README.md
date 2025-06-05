@@ -37,3 +37,47 @@ _____________________________________________________________
 
 
 
+### Результаты вывода команды git log: 
+
+
+commit 57a69a5cea1a6025d9ff0439cc16dfaab3fe71f8 (HEAD -> main, origin/main, origin/HEAD)
+Author: Alex Barsukov <mozdoksity@ya.ru>
+Date:   Thu Jun 5 13:42:33 2025 +0300
+
+    hw_1
+
+commit eb73cba09a771fc0a1fddd7a1cf0b2e2c17d05b6
+Author: Alex Barsukov <mozdoksity@ya.ru>
+Date:   Thu Jun 5 13:40:28 2025 +0300
+
+    hw_1
+
+commit 9496d6514a738b15e350b7824d27ca6e550a9561
+Author: Alex Barsukov <mozdoksity@ya.ru>
+Date:   Thu Jun 5 13:38:46 2025 +0300
+
+    hw_1
+
+commit a1b18a098a876a09ee7d19fb4f8e743a34e40d4e
+Author: Alex Barsukov <mozdoksity@ya.ru>
+Date:   Thu Jun 5 13:24:16 2025 +0300
+
+    dev
+
+commit 9d2c4e5e43f05c963e0b2b017d75c570899a0bc3
+Author: Alex Barsukov <mozdoksity@ya.ru>
+Date:   Thu Jun 5 13:22:44 2025 +0300
+
+    dsfdsfdsf
+
+commit 4231e5f820249546ce5ee5345885413731852d19
+Author: Alex Barsukov <mozdoksity@ya.ru>
+Date:   Thu Jun 5 13:00:48 2025 +0300
+
+    test
+
+commit 2ca0e288733a4140ae1aa59369a09d4773a537c9
+Author: Barsukov-Alex <mozdoksity@ya.ru>
+Date:   Thu Jun 5 11:08:32 2025 +0300
+
+    Initial commit
