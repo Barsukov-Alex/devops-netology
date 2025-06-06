@@ -230,27 +230,28 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 1. Отсортирован хеш в списке логов по названию коммита, выполнен checkout на данный лог
 
+<img src = "img/hw_3_1.jpg" width = 100%>
 
+ 2. Создана новая ветка fix, опубликована на GitLub
 
- 2. Создана новая ветка fix, опубликована на GitHub
-
-
+<img src = "img/hw_3_2.jpg" width = 100%>
 
 3. График после публикации новой ветки Fix
 
-
+<img src = "img/hw_3_3.jpg" width = 100%>
 
 4. Вносим новую строку в файл README.md, выполняем публикацию в GitHub
 
+<img src = "img/hw_3_4.jpg" width = 100%>
 
+5. [График](https://gitlab.com/mozdoksity2/devops-netology/-/network/main) после публикации изменений в файл README.md
 
-5. [График](https://github.com/SlavaZakariev/devops-netology/network) после публикации изменений в файл README.md
-
-
+<img src = "img/hw_3_5.jpg" width = 100%>
 
 6. Список логов по одной строке
 
 
+<img src = "img/hw_3_6.jpg" width = 100%>
 
 ---
 
