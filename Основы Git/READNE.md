@@ -163,5 +163,5 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 1. 1. Создан проект [devops-netology](https://gitlab.com/mozdoksity2/devops-netology) в GitLab
 
-<img src = "img/hw_13_2_1_1.jpg" width = 100%>
+<img src = "img/hw_1_1.jpg" width = 100%>
 
