@@ -255,3 +255,8 @@ origin-https	https://github.com/andrey-borue/devops-netology.git (push)
 
 ---
 
+## Решение 4
+
+ Пользуюсь Visual Studio Code при работе с Git.
+
+<img src = "img/hw_4_1.jpg" width = 100%>
